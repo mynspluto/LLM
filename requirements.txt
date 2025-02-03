@@ -3,3 +3,4 @@ tensorflow
 torch
 tf-keras
 pandas
+datasets

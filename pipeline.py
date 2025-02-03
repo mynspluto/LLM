@@ -11,4 +11,4 @@ you soo. Sincerely, Bumblebee."""
 
 ner_tagger = pipeline("ner", aggregation_strategy="simple")
 outputs = ner_tagger(text)
-print(pd.DataFrame(outputs)) 
+print(pd.DataFrame(outputs))
