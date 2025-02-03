@@ -1,0 +1,5 @@
+transformers
+tensorflow
+torch
+tf-keras
+pandas
