@@ -4,3 +4,4 @@ torch
 tf-keras
 pandas
 datasets
+openai
