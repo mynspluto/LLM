@@ -1,7 +1,8 @@
 import os
 from openai import OpenAI
 
-api_key_from_os = os.getenv("OPENAI_API_KEY")  # 환경변수에서 API 키 가져오기
+# 환경변수에서 API 키 가져오기 .zshrc, .bashrc
+api_key_from_os = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=api_key_from_os)
 completion = client.chat.completions.create(

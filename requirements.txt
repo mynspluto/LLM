@@ -1,3 +1,5 @@
+# brew install portaudio
+
 transformers
 tensorflow
 torch
@@ -5,3 +7,6 @@ tf-keras
 pandas
 datasets
 openai
+pyaudio
+vosk
+numpy
