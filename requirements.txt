@@ -1,5 +1,5 @@
 # brew install portaudio
-
+# brew install ffmpeg
 transformers
 tensorflow
 torch
@@ -9,4 +9,7 @@ datasets
 openai
 pyaudio
 vosk
+openai-whisper
 numpy
+setuptools-rust
+SpeechRecognition
