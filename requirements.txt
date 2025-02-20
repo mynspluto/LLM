@@ -12,4 +12,5 @@ vosk
 openai-whisper
 numpy
 setuptools-rust
+sounddevice
 SpeechRecognition

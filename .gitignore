@@ -2,3 +2,4 @@ LLM_venv
 __pycache__
 vosk-model-small-ko-0.22
 vosk-model-small-ko-0.22.zip
+*.m4a
